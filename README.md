@@ -10,4 +10,4 @@ It is going to use a rapidly oscillating lens setup to continuously change the f
 
 ## Potential Solutions
 - **refresh rate**: replace backlight by high-speed HDR backlight (LED matrix) since the actual image doesn't need to change for the individual depth layers
-- **lens setup**: use varifocal lens
+- **lens setup**: use electrically focus-tunable lenses (expensive)
