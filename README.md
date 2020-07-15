@@ -1,5 +1,5 @@
 # Blurred Reality
-VR headset using a rapidly oscillating lens setup to provide depth cues
+VR headset using focal sweeping to provide depth cues
 
 ## The Idea
 It is going to use a rapidly oscillating lens setup to continuously change the focal length, displaying the corresponding parts of the image at the right time.
@@ -10,4 +10,4 @@ It is going to use a rapidly oscillating lens setup to continuously change the f
 
 ## Potential Solutions
 - **refresh rate**: replace backlight by high-speed HDR backlight (LED matrix) since the actual image doesn't need to change for the individual depth layers
-- **lens setup**: use electrically focus-tunable lenses (expensive)
+- **lens setup**: use electrically tunable lenses (expensive)
