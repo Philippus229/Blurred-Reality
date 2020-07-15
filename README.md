@@ -1,4 +1,4 @@
-# Blurred-Reality
+# Blurred Reality
 VR headset using a rapidly oscillating lens setup to provide depth cues
 
 ## The Idea
